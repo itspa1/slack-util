@@ -1,6 +1,6 @@
 require 'httparty'
 
-token = "xoxp-73989670192-140762099108-225445449585-a6deddb745a3fb728ac0292979f3fe8e"
+token = #your key goes here
 puts "Enter email"
 email = gets.chomp
 puts "enter the channel id's"
